@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muskan Gulati👋</h1>
+<h1 align="center">Hi, I'm Muskan Gulati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <h4 align="center">Interested in Full Stack Development.
 • A quick learner, equipped with a diverse and promising skill-set.
