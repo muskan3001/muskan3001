@@ -35,6 +35,13 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 </p>
+<h2 align="left">Stats:</h2>
+    <p align="left">
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan3001&layout=compact&title_color=ffffff&text_color=2affff&bg_color=000"
+    </p>
+    <p align="left">
+        <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=muskan3001&show_icons=true&theme=dark&bg_color=000'/>
+    </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan3001&label=Profile%20views&color=0e75b6&style=flat" alt="muskan3001" /> </p>
