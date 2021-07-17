@@ -40,7 +40,7 @@
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan3001&layout=compact&title_color=ffffff&text_color=2affff&bg_color=000"
     </p>
     <p align="left">
-        <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=muskan3001&show_icons=true&theme=dark&bg_color=000'/>
+      <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=muskan3001&show_icons=true&theme=dark'/>
     </p>
 
 
