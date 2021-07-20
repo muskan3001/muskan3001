@@ -9,16 +9,13 @@
 
 <p align="center">
 <a href="https://www.instagram.com/muskan._.gulati/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width:100%;">
+    <img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" width="50px" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width:100%;">
   </a><span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/muskan-gulati30/" rel="nofollow">
-   <img src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width:100%;">
+   <img src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" width="50px" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width:100%;">
     </a><span>&nbsp;</span>
-     <a href="https://github.com/muskan3001">
-    <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width:100%;">
-  </a><span>&nbsp;</span>
   <a href="mailto:mail.muskan.gulati3029@gmail.com">
-    <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" width="3.5%" data-canonical-src="https://img.icons8.com/fluent/48/000000/gmail.png" style="max-width:100%;">
+    <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" width="50px" data-canonical-src="https://img.icons8.com/fluent/48/000000/gmail.png" style="max-width:100%;">
   </a><span>&nbsp;</span>
   <hr>
 
